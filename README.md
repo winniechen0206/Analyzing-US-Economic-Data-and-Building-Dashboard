@@ -7,3 +7,6 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 
 
 ![SCREENSHOT OF DASHBOARD of Unemployement stats according to GDP](https://user-images.githubusercontent.com/7398695/57008729-c65fff00-6c0f-11e9-8620-0d3ddb1b5ab6.png)
+
+
+**This is IBM Certified Data Scientist Course Project**
